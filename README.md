@@ -1,3 +1,13 @@
+Face-Swap-Tech: Python + Insightface + ONNX + TensorFlow
+
+A face swapping solution powered by:
+- Python 3.9+
+- Insightface
+- ONNX Runtime
+- TensorFlow 
+- OpenCV
+- Multiple video encoders (libx264, libx265, libvpx-vp9, h264_nvenc, hevc_nvenc)
+
 ## This project has been discontinued
 
 Yes, you can still use this software. It just won't recieve any updates now.
